@@ -3,7 +3,7 @@
 
 👁️ Project Overview
 
-The project Swiggy Food Delivery Analysis, which delves into food delivery and restaurant analysis with a focus on Swiggy, a prominent food delivery platform. Our project involved data extraction, comprehensive data analysis, and the creation of an interactive dashboard. The objective was to provide valuable recommendations to a consultancy firm interested in opening a remote kitchen in Chennai. Let's explore the project's process, analysis, key findings, and recommendations.
+The project Swiggy Food Delivery Analysis, which delves into food delivery and restaurant analysis with a focus on Swiggy, a prominent food delivery platform. Our project involved data extraction, comprehensive data analysis, and the creation of an interactive dashboard. The objective was to provide valuable recommendations to a consultancy firm interested in opening a remote kitchen in All over main cities in India. Let's explore the project's process, analysis, key findings, and recommendations.
 
 
 🔍 Analysis
@@ -43,4 +43,4 @@ Establishing a scalable data framework for real-time analysis and accurate predi
 
 🧰Future Scope
 
-The project's future scope focuses on strategically locating a remote kitchen in a region bridging Guindy,Madhavaram,Ashok Nagar, densely populated areas with high customer demand. This positioning offers expanded customer reach, improved delivery times, operational efficiency, and a balanced market presence, ensuring success in the competitive food delivery market.
+The project's future scope focuses on strategically locating a remote kitchen in a region bridging All over main cities in India densely populated areas with high customer demand. This positioning offers expanded customer reach, improved delivery times, operational efficiency, and a balanced market presence, ensuring success in the competitive food delivery market.
